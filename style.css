@@ -1,0 +1,12 @@
+.singleBlock {
+    width: 60px;
+    height: 60px;
+    color: white;
+  }
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    width: 960px;
+    height: 60px;
+}
