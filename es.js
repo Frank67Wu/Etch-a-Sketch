@@ -14,6 +14,7 @@ function createGrid(n) {
             block.style.width = 960/n + "px";
             block.style.height = 960/n + "px";
             block.addEventListener('mouseenter', e => {
+                
                 block.style.backgroundColor = 'black';
             })
     
